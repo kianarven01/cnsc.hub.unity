@@ -7,7 +7,7 @@ A project bringing together an Android application and a Unity Android module.
 
 ## 📌 About the Project
 
-**CNSC Hub** is a software project containing the Android Studio application and its associated Unity Android export. This repository serves as a central place to maintain and share the project's code.
+**CNSC Hub** is an app project containing the Android Studio application and its associated Unity Android export. This repository serves as a central place to maintain and share the project's code.
 
 ## 📂 Repository Structure
 
@@ -28,7 +28,7 @@ cnsc.hub.unity/
 ## 🛠️ Technologies
 
 - **Android Studio** — Android application development
-- **Java / Kotlin** — Android development, depending on the source files
+- **Java** — Android development, depending on the source files
 - **Unity** — Unity content exported for Android integration
 - **Gradle** — Build automation
 
@@ -69,5 +69,5 @@ No license has been specified yet. Unless a license is added, the repository's c
 
 ---
 
-**Maintained by:** Kian Arven
+**Developed by:** CJ, Kian, Isaac and Paul 2022
 
